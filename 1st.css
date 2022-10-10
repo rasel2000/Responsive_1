@@ -12,3 +12,13 @@ section
     padding: 50px;
     margin: 20px;
 }
+
+
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 5px solid green;
+    padding: 20px;
+    background-color: aqua;
+}
